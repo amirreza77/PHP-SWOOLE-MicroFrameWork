@@ -6,11 +6,7 @@
 
   <h3 align="center">PHP SWOOLE Microframework</h3>
 
-  <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
-    <br/>
-    <br/>
-  </p>
+ 
 </p>
  
 ## Table Of Contents
@@ -20,10 +16,7 @@
 * [Getting Started](#getting-started)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
