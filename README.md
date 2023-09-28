@@ -12,9 +12,7 @@
     <br/>
   </p>
 </p>
-
-![License](https://img.shields.io/github/license/amirreza77/PHP-SWOOLE-MicroFrameWork) 
-
+ 
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
@@ -115,26 +113,6 @@ To run your project, you can use the **nohup** command as follows, which will ke
 ```sh
 nohup php index.php &
 ```
-
-
-
-
-## Contributing
-
-
-
-### Creating A Pull Request
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/amirreza77/PHP-SWOOLE-MicroFrameWork/blob/main/LICENSE.md) for more information.
-
 ## Authors
 
 * **AmirReza Tehrani** - *PHP Developer* - [AmirReza Tehrani](https://github.com/amirreza77) - **
