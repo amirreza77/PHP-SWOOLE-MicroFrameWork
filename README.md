@@ -1,16 +1,10 @@
-<br/>
 <p align="center">
   <a href="https://github.com/amirreza77/PHP-SWOOLE-MicroFrameWork">
     <img src="https://raw.githubusercontent.com/amirreza77/PHP-SWOOLE-MicroFrameWork/main/raw/images/logo.png" alt="Logo" width="150" height="150">
   </a>
-
   <h3 align="center">PHP SWOOLE Microframework</h3>
-
- 
 </p>
- 
 ## Table Of Contents
-
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
